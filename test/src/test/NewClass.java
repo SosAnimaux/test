@@ -12,4 +12,7 @@ package test;
  */
 public class NewClass {
     
+    
+    
+    //qsout
 }
